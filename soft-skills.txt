@@ -1,0 +1,15 @@
+Tools:
+1) JIRA
+2) Visual Studio
+3) Redmine
+4) CRM / ERP
+5) Microsoft 365
+
+Work methodologies:
+1) Agile
+2) GitFlow
+
+Social skills:
+1) Empathy
+2) Team Work
+3) Leadership
